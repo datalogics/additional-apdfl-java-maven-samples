@@ -9,7 +9,7 @@
  *
  */
 
-package com.datalogics.pdfl.samples.InformationExtraction.AuditInfo;
+package com.datalogics.pdfl.samples;
 
 import com.datalogics.PDFL.Document;
 import com.datalogics.PDFL.Library;
