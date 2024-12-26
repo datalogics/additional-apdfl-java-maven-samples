@@ -8,7 +8,7 @@
  * agreement. Sample code is for demonstrative purposes only and is not intended for production use.
  *
  */
-package com.datalogics.pdfl.samples.InformationExtraction.AuditInfo;
+package com.datalogics.pdfl.samples;
 
 import com.datalogics.PDFL.*;
 
