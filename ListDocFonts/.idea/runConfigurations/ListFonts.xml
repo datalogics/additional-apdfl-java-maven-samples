@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ListFonts" type="Application" factoryName="Application">
+    <envs>
+      <env name="PATH" value="./target/lib" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.datalogics.pdfl.samples.ListDocFonts" />
+    <module name="ListFonts" />
+    <option name="PROGRAM_PARAMETERS" value="\\penguin\support\csts\14938\46690\font_cid_f1.pdf" />
+    <option name="VM_PARAMETERS" value="-Djava.library.path=./target/lib" />
+    <method v="2">
+      <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="process-resources" />
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
